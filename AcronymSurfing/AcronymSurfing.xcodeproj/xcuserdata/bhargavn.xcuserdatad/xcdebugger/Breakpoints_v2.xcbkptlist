@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0BF2F490-1458-42DA-9F5E-BF122A9C356A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C9F3278-EA5A-4DD3-957C-645AD1EBFAB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AcronymSurfing/SearchResultTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SearchResultTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7C9F3278-EA5A-4DD3-957C-645AD1EBFAB9 - 7e104d96171acd50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AcronymSurfing.SearchResultTableViewController.viewModel.getter : AcronymSurfing.SearchResultTableViewModel"
+                  moduleName = "AcronymSurfing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhargavn/Downloads/AcronymSurfing%202/AcronymSurfing/SearchResultTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "49">
+               </Location>
+               <Location
+                  uuid = "7C9F3278-EA5A-4DD3-957C-645AD1EBFAB9 - c590dee8a5e5bc9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AcronymSurfing.SearchResultTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; AcronymSurfing.SearchResultTableViewController"
+                  moduleName = "AcronymSurfing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhargavn/Downloads/AcronymSurfing%202/AcronymSurfing/SearchResultTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "7C9F3278-EA5A-4DD3-957C-645AD1EBFAB9 - 718e51338e766b85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AcronymSurfing.SearchResultTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;AcronymSurfing.SearchResultTableViewController&gt;"
+                  moduleName = "AcronymSurfing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/bhargavn/Downloads/AcronymSurfing%202/AcronymSurfing/SearchResultTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "125">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
